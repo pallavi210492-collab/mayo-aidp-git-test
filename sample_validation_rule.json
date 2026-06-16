@@ -1,0 +1,6 @@
+{
+  "rule_id": "TEST_RULE_001",
+  "worksheet": "A",
+  "severity": "WARNING",
+  "description": "Sample dummy validation rule for AIDP Git integration test"
+}
